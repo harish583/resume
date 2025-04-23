@@ -70,6 +70,11 @@ a:hover{
     max-width: 800px;
     margin: 0 auto;
 }
+.grid-2{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
 .project-content-header{
     padding: 10px 0;
     font-weight: 600
